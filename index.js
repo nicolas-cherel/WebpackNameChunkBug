@@ -1,0 +1,7 @@
+
+
+import(
+  /* webpackChunkName: "ren" */
+  "./other"
+);
+
